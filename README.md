@@ -1,16 +1,24 @@
-### Hi there 👋
+Hi 👋 My name is Nikita Shakhmaev
+=================================
 
-<!--
-**justveir/justveir** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Backend developer
+-----------------
 
-Here are some ideas to get you started:
+I've been developing for 2 years. I am learning Python, in these two years I have learned how to write telegram bots, make GUI applications
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* 🌍  I'm based in Russia
+* ✉️  You can contact me at [t.me/justveir](mailto:t.me/justveir)
+* 🧠  I'm learning Flask
+
+### Skills
+
+
+<p align="left">
+<a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a>
+<a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="36" height="36" alt="Git" /></a>
+</p>
+
+
+### Socials
+
+<p align="left"> <a href="https://discord.com/users/nomercy#8391" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /></a></p>

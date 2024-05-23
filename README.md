@@ -7,7 +7,7 @@ Backend developer
 I've been developing for 2 years. I am learning Python, in these two years I have learned how to write telegram bots, make GUI applications
 
 * 🌍  I'm based in Russia
-* ✉️  You can contact me at [t.me/justveir](t.me/justveir)
+* ✉️  You can contact me at [t.me/justveir](https://t.me/justveir)
 * 🧠  I'm learning Flask
 
 ### Skills

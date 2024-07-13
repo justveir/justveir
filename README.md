@@ -1,4 +1,4 @@
-Hi 👋 My name is Nikita Shakhmaev
+Hi 👋 I'm justveir
 =================================
 
 Backend developer

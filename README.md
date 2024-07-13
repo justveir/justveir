@@ -21,4 +21,4 @@ I've been developing for 2 years. I am learning Python, in these two years I hav
 
 ### Socials
 
-<p align="left"> <a href="https://discord.com/users/nomercy#8391" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /></a></p>
+<p align="left"> <a href="https://discord.com/users/justveir" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /></a></p>
